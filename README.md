@@ -20,4 +20,4 @@ All commands must be provided as a space-separated list in a text file. An examp
 
 At the start of program execution, the list of commands read in from the file is shown. Each command is then shown line by line, along with the max heap before the operation and the max heap after the operation.
 
-![**Example Program Run:**](exampleRun.PNG)
+![**Example Program Run:**](exampleRun.PNG "Example run of MaxHeap.java.")
